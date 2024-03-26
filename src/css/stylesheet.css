@@ -1223,7 +1223,7 @@ body {
 }
 .message p {
 	font-family: 'Signika', sans-serif;
-	font-size: 40px;
+	font-size: 30px;
 	text-transform: uppercase;
 	color: #3ea618aa;
 	text-shadow: 2px 2px 2px #FFF;
@@ -1278,7 +1278,7 @@ body {
 }
 
 .wrap {
-  padding: 1.5em 2.5em;
+  padding: 1.5em 1.5em;
   height: 100%;
 }
 
@@ -1320,7 +1320,7 @@ body {
   text-align: center;
   font-family: 'Lobster', cursive;
   font-style: italic;
-  font-size: 60px;
+  font-size: 50px;
   text-shadow: 4px 4px 0px rgba(26, 132, 185, 0.15), 1px 1px 0 #3911b2, 2px 2px 0 #031a18, 3px 3px 0 #650bab;
   color: #FFF;
 }
