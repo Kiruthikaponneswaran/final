@@ -1223,7 +1223,7 @@ body {
 }
 .message p {
 	font-family: 'Signika', sans-serif;
-	font-size: 30px;
+	font-size: 40px;
 	text-transform: uppercase;
 	color: #3ea618aa;
 	text-shadow: 2px 2px 2px #FFF;
@@ -1320,13 +1320,13 @@ body {
   text-align: center;
   font-family: 'Lobster', cursive;
   font-style: italic;
-  font-size: 50px;
+  font-size: 60px;
   text-shadow: 4px 4px 0px rgba(26, 132, 185, 0.15), 1px 1px 0 #3911b2, 2px 2px 0 #031a18, 3px 3px 0 #650bab;
   color: #FFF;
 }
 
 #card-inside {
-  font-size: 1.3em;
+  font-size: 2.3em;
   line-height: 1.4;
 font-family: 'Lobster';
   color: #331717;
